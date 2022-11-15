@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
-API_KEY=YOUR_API_KEY_HERE
+API_KEY="YOUR_API_KEY_HERE"
 API="https://www.webnames.ru/scripts/json_domain_zone_manager.pl"
 #CREATE_DOMAIN="_acme-challenge.$CERTBOT_DOMAIN"
 #PARAMS="apikey=$API_KEY&domain=$CERTBOT_DOMAIN&type=TXT&record=$CREATE_DOMAIN:$CERTBOT_VALIDATION"
